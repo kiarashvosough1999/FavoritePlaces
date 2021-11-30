@@ -8,7 +8,7 @@ Favorite Places is an app which works with GoogleMap and user can assign differe
 
 ## More Info
 
-Repository pattern was impelemented only on `FavoritePlacesViewModel`. for the case you wanna check. other viewModel will be soon use repository.
+Repository pattern was impelemented only on some viewModel. for the case you wanna check. other viewModel will be soon use repository.
 
 ### Current Features:
 - Used MVVM + Coordinator + Repository Architecture
