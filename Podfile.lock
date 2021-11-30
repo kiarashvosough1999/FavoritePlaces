@@ -1,0 +1,24 @@
+PODS:
+  - FittedSheets (2.4.2)
+  - GoogleMaps (5.2.0):
+    - GoogleMaps/Maps (= 5.2.0)
+  - GoogleMaps/Base (5.2.0)
+  - GoogleMaps/Maps (5.2.0):
+    - GoogleMaps/Base
+
+DEPENDENCIES:
+  - FittedSheets
+  - GoogleMaps
+
+SPEC REPOS:
+  trunk:
+    - FittedSheets
+    - GoogleMaps
+
+SPEC CHECKSUMS:
+  FittedSheets: 661408776eb4ff514a31da75b3600bd7222b2b3d
+  GoogleMaps: 025272d5876d3b32604e5c080dc25eaf68764693
+
+PODFILE CHECKSUM: ed9a0249008f32d0fae5edb6e6455bea8f46f94d
+
+COCOAPODS: 1.11.2

@@ -1,0 +1,15 @@
+//
+//  Dev.xcconfig
+//  FavoritePlaces
+//
+//  Created by Kiarash Vosough on 9/4/1400 AP.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+APP_NAME = Favorite Places Dev
+STR_BASE_BUNDLE_ID = com.KiarashVosough.FavoritePlaces.dev 
+STR_URL_SCHEME = FavoritePlaces
+STR_APP_ICON = AppIcon-dev
+Google_Base_URL = https:\/\/maps.googleapis.com
