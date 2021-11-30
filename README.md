@@ -1,4 +1,4 @@
-# Favorite Places article with MVVM +  Repository + Coordinator Architecture
+# Favorite Places article with MVVM + Repository + Coordinator Architecture
 Favorite Places is an app which works with GoogleMap and user can assign different location for person he/she created before to keep track of their favorite locations.
 
 ## To run the project:
@@ -8,14 +8,20 @@ Favorite Places is an app which works with GoogleMap and user can assign differe
 
 ## More Info
 
-Repository pattern was impelemented only on `FavoritePlacesViewModel`. for the case you wanna check
-
-other viewModel will be soon use repository.
+Repository pattern was impelemented only on `FavoritePlacesViewModel`. for the case you wanna check. other viewModel will be soon use repository.
 
 ### Current Features:
-- Used MVVM + Coordinator + Repository Architect
+- Used MVVM + Coordinator + Repository Architecture
 - Localization: Currently Supports English
-- Will Have two Enviroments: Development and Production
 - Modularized
 - Animatable Place Marker
-- Custom map styled
+- Custom Map Style
+- Dependency Injection
+- CoreData Store
+- Several Custom UI Components
+- App Styling
+- Used No other Dependencies Except GoogleMapSDK
+
+## TODO
+- [ ] Unit Test
+- [ ] UI Test
